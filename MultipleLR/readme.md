@@ -20,5 +20,5 @@ Install the necessary libraries using the following command:
 
 `Clone the repository`:
 
-git clone https://github.com/DevanshL/Machine-Learning.git
-cd Machine-Learning/main/MultipleLR
+- git clone https://github.com/DevanshL/Machine-Learning.git
+- cd Machine-Learning/main/MultipleLR
