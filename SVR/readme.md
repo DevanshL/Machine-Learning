@@ -1,6 +1,6 @@
-# Support Vector Regression (SVR) from Scratch
+# Support Vector Regression (SVR)
 
-This project extends the implementation to demonstrate Support Vector Regression (SVR) from scratch using Python. The code includes a custom implementation of the SVR class and visualization using matplotlib.
+This project extends the implementation to demonstrate Support Vector Regression (SVR) using Python. The code includes a custom implementation of the SVR class and visualization using matplotlib.
 
 ## Files
 
