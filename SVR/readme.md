@@ -4,8 +4,8 @@ This project extends the implementation to demonstrate Support Vector Regression
 
 ## Files
 
--`SVR.py`: Python script containing the implementation of the SVR class.
--`your_dataset.csv`: Sample CSV file containing your dataset.
+-`SVR.ipynb`: Python script containing the implementation of the SVR class.
+-`Position_Salaries.csv`: Sample CSV file containing your dataset.
 
 ## Requirements
 Python 3.x
