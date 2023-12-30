@@ -3,8 +3,8 @@ This project extends the implementation to demonstrate Random Forest Regression 
 
 ## Files
 
--`RandomForest Regression.ipynb`: Python script containing the implementation of the SVR class.
--`Position_Salaries.csv`: Sample CSV file containing your dataset.
+- `RandomForest Regression.ipynb`: Python script containing the implementation of the SVR class.
+- `Position_Salaries.csv`: Sample CSV file containing your dataset.
 
 ## Requirements
 Python 3.x
