@@ -7,7 +7,8 @@ Logistic Regression is a widely used machine learning algorithm for binary class
 
 ## Files
 
-- `Logistic_Regression.ipynb`: Python script containing the implementation of the SimpleLinearRegression class.
+- `Logistic_Regression.ipynb`: Python script containing the implementation of the Logistic Regression class.
+- `Logistic_Regression_scratch.ipynb`: Python script containing the implementation of the Logistic Regression class from scratch.
 - `Social_Network_Ads.csv`: Sample CSV file containing your dataset.
 
 ## Requirements
