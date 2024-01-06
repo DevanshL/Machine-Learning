@@ -17,8 +17,8 @@ pip install scikit-learn
 ## Usage
 
 `Clone the repository:`
-git clone https://github.com/DevanshL/Machine-Learning.git
-cd Machine-Learning/main/Hierarchical Clustering
+- git clone https://github.com/DevanshL/Machine-Learning.git
+- cd Machine-Learning/main/Hierarchical Clustering
 
 ## References
 - scikit-learn documentation
