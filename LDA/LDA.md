@@ -26,13 +26,8 @@ Ensure you have the following prerequisites installed:
 
 Clone the repository and install the required packages:
 
-```bash
-git clone https://github.com/yourusername/lda-dimensionality-reduction.git
-cd lda-dimensionality-reduction
-pip install -r requirements.txt
-```
 
-```Acknowledgements
+```bash
 git clone https://github.com/Devansh/Machine-Learning.git
 cd LDA
 ```
